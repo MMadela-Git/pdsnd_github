@@ -5,7 +5,7 @@
 2021-07-27 Bikeshare project created.
 
 ### Project Title
-Explore US Bikeshare Data
+Explore US and DE Bikeshare Data
 
 ### Description
 Explore data related to bike share systems for three major cities in the 
