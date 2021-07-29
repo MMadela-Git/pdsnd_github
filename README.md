@@ -5,7 +5,7 @@
 2021-07-27 Bikeshare project created.
 
 ### Project Title
-Explore US Bikeshare Data
+Explore US and DE Bikeshare Data
 
 ### Description
 Explore data related to bike share systems for three major cities in the 
@@ -17,6 +17,7 @@ With raw input is to create an interactive experience in the terminal to present
 chicago.csv,
 washington.csv and 
 new york city.csv
+Berlin.csv
 
 ### Credits
 Great thanks goes to Udacity mentors and the training that they provided. The training I did was -- Programming for Data Science with Python Nanodegree Program --.
